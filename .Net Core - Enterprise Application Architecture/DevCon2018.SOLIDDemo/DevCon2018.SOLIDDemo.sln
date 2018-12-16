@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCon2018.SOLIDDemo", "DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo.csproj", "{D973ED09-AA75-4323-B4B4-E423AE06ACA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D973ED09-AA75-4323-B4B4-E423AE06ACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D973ED09-AA75-4323-B4B4-E423AE06ACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D973ED09-AA75-4323-B4B4-E423AE06ACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D973ED09-AA75-4323-B4B4-E423AE06ACA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758DF0A3-7FA3-4173-9762-368F9B628949}
+	EndGlobalSection
+EndGlobal

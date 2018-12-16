@@ -1,0 +1,11 @@
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.csprojAssemblyReference.cache
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.csproj.CoreCompileInputs.cache
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.AssemblyInfoInputs.cache
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.AssemblyInfo.cs
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\bin\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.deps.json
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\bin\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.runtimeconfig.json
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\bin\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.runtimeconfig.dev.json
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\bin\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.dll
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\bin\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.pdb
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.dll
+C:\Users\prnair\source\repos\DevCon2018.SOLIDDemo\DevCon2018.SOLIDDemo\obj\Debug\netcoreapp2.2\DevCon2018.SOLIDDemo.pdb
